@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 Hello
+=======
+>>>>>>> Manisha
 I come from a close-knit family of four, consisting of my father, mother, elder sister, and me.
 My family has always been a strong source of support and motivation
 And encouraging me to pursue my education and career goals.
