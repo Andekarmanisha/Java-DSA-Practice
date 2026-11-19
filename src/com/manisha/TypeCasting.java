@@ -12,6 +12,7 @@ public class TypeCasting {
 //        System.out.println(b);
 //        byte a = 30;
 //        byte b = 56;
+
 //        byte c = 12;
 //        int d = a * b / c;
 //        System.out.println(d);
