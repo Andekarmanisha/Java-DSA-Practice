@@ -1,4 +1,4 @@
-package com.manisha.dsa;
+package com.manisha.manisha.dsa;
 import java.sql.SQLOutput;
 import java.util.Scanner;
 

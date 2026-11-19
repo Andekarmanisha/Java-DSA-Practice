@@ -1,4 +1,4 @@
-package com;
+package com.manisha;
 
 public class Primitives {
     public static void main(String[] args) {
